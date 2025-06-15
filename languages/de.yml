@@ -23,6 +23,11 @@ tag:
   subtitle: 'Schlagwörter'
   post_total: 'Insgesamt %d Artikel'
 
+photo:
+  menu: 'Fotos'
+  title: 'Fotos'
+  subtitle: 'Fotos'
+
 about:
   menu: 'Über'
   title: 'Über'

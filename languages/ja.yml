@@ -23,6 +23,11 @@ tag:
   subtitle: 'タグ'
   post_total: '全 %d 件のポスト'
 
+photo:
+  menu: '写真'
+  title: '写真'
+  subtitle: '写真'
+
 about:
   menu: 'プロフィール'
   title: 'プロフィール'

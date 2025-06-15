@@ -23,6 +23,11 @@ tag:
   subtitle: 'Теги'
   post_total: '%d сообщений всего'
 
+photo:
+  menu: 'Фото'
+  title: 'Фото'
+  subtitle: 'Фото'
+
 about:
   menu: 'О'
   title: 'О'

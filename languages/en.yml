@@ -23,6 +23,11 @@ tag:
   subtitle: 'Tags'
   post_total: '%d posts in total'
 
+photo:
+  menu: 'Photos'
+  title: 'Photos'
+  subtitle: 'Photos'
+
 about:
   menu: 'About'
   title: 'About'

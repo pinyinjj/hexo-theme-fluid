@@ -23,6 +23,11 @@ tag:
   subtitle: 'Etikedoj'
   post_total: 'Entute %d afiŝoj'
 
+photo:
+  menu: 'Fotoj'
+  title: 'Fotoj'
+  subtitle: 'Fotoj'
+
 about:
   menu: 'Pri'
   title: 'Pri'

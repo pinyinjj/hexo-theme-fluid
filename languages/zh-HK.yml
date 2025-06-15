@@ -23,6 +23,11 @@ tag:
   subtitle: '標籤'
   post_total: '共有 %d 篇文章'
 
+photo:
+  menu: '相片'
+  title: '相片'
+  subtitle: '相片'
+
 about:
   menu: '關於'
   title: '關於'

@@ -23,6 +23,11 @@ tag:
   subtitle: 'Etiquetas'
   post_total: '%d artículos en total'
 
+photo:
+  menu: 'Fotos'
+  title: 'Fotos'
+  subtitle: 'Fotos'
+
 about:
   menu: 'Acerca'
   title: 'Acerca'
